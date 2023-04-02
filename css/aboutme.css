@@ -3,6 +3,15 @@
     padding: 0;
     font-family: sans-serif;
 }
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(../images/DI.JPG);
+}
+h1{
+    text-align: center;
+    color: aqua;
+}
 .hero{
     position: relative;
     width: 100%;
@@ -46,7 +55,7 @@ nav ul li a:hover{
     margin-bottom: 20px;
 }
 span{
-    color: rgb(68, 240, 82);
+    color: rgb(240, 131, 68);
 }
 images{
     width: 45%;
